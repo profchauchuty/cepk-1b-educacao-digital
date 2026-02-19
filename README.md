@@ -1,4 +1,4 @@
-# 📘 Educação Digital, Computação, Programação e Inteligência Artificial
+# 📘 Educação Digital e Computação: Programação e I.A
 
 **Turma:** 1ª Ano B – Tarde – CEPK  
 **Professor:** Cesar Mauricio Chauchuty  
