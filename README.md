@@ -1,6 +1,6 @@
 # 📘 Educação Digital e Computação: Programação e I.A
 
-**Turma:** 1ª Ano B – Tarde – CEPK  
+**Turma:** 1ª Ano B – Manhã – CEPK  
 **Professor:** Cesar Mauricio Chauchuty  
 **Curso:** Técnico em Desenvolvimento de Sistemas  
 **Instituição:** Colégio Estadual Presidente Kennedy
