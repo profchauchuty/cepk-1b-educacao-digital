@@ -40,6 +40,7 @@
 | Aula                                   | Link                                                                 |
 |----------------------------------------|----------------------------------------------------------------------|
 | Tecnologia no dia a dia     | [Acessar](https://drive.google.com/file/d/1v3pXULaIpQuZZmJ3MY1urK7ZKak5Wvyh/view) |
+| Tipos de I.A                           | [Acessar](https://www.devmedia.com.br/como-a-inteligencia-artificial-pode-ajudar-programadores-iniciantes/44211) |
 
 ---
 
